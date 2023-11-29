@@ -1,13 +1,42 @@
 /* Add a background color to the header element */
+header {
+    background-color: navy;
+    color: lightskyblue;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 
 /* Add a fun background color to the main element */
+
+main{
+    background-color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    color:navy;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
 
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
+footer{
+    background-color: navy;
+    color:lightskyblue;
+    font-style: italic;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 
 /* Put a border around your image */
+img{
+    border-style: solid;
+    border-width: 15px;
+    border-color: navy;
+}
 
 /* Change the font-family of your list */
+
 
 /* Add a background color to the footer element */
